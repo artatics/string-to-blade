@@ -16,7 +16,7 @@ Add repository
 "repositories": [
     {
         "type": "git",
-        "url": "ssh://git@lab.systembox.org:2022/systems/chekonline.git"
+        "url": "https://github.com/artatics/string-to-blade.git"
     }
 ],
 ```
