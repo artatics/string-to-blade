@@ -1,0 +1,20 @@
+{
+  "name": "artatics/string-to-blade",
+  "description": "String Blade Compiler for Laravel",
+  "keywords": ["laravel", "blade", "string", "render"],
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Artamonov Alexander",
+      "email": "artatics@yandex.ru"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "artatics\\StringToBlade\\": "src/"
+    }
+  }
+}
